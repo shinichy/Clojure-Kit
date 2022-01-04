@@ -40,7 +40,7 @@ intellij {
   type = "IC"
   plugins = ['copyright', 'java']
   updateSinceUntilBuild = false
-  downloadSources = false
+  downloadSources = true
 }
 buildSearchableOptions.enabled = false
 
